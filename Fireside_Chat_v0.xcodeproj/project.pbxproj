@@ -13,6 +13,10 @@
 		7002430929E9975600F39EB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7002430829E9975600F39EB5 /* Preview Assets.xcassets */; };
 		7002430B29E9975600F39EB5 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7002430A29E9975600F39EB5 /* Persistence.swift */; };
 		7002430E29E9975600F39EB5 /* Fireside_Chat_v0.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7002430C29E9975600F39EB5 /* Fireside_Chat_v0.xcdatamodeld */; };
+		7002431529E997DB00F39EB5 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7002431429E997DB00F39EB5 /* User.swift */; };
+		7002431729E9A10B00F39EB5 /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7002431629E9A10B00F39EB5 /* RegistrationView.swift */; };
+		7002431929E9A1C700F39EB5 /* ResourcesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7002431829E9A1C700F39EB5 /* ResourcesView.swift */; };
+		7002431B29E9A1E200F39EB5 /* MatchingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7002431A29E9A1E200F39EB5 /* MatchingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +27,10 @@
 		7002430829E9975600F39EB5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7002430A29E9975600F39EB5 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		7002430D29E9975600F39EB5 /* Fireside_Chat_v0.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Fireside_Chat_v0.xcdatamodel; sourceTree = "<group>"; };
+		7002431429E997DB00F39EB5 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		7002431629E9A10B00F39EB5 /* RegistrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
+		7002431829E9A1C700F39EB5 /* ResourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesView.swift; sourceTree = "<group>"; };
+		7002431A29E9A1E200F39EB5 /* MatchingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +69,10 @@
 				7002430A29E9975600F39EB5 /* Persistence.swift */,
 				7002430C29E9975600F39EB5 /* Fireside_Chat_v0.xcdatamodeld */,
 				7002430729E9975600F39EB5 /* Preview Content */,
+				7002431429E997DB00F39EB5 /* User.swift */,
+				7002431629E9A10B00F39EB5 /* RegistrationView.swift */,
+				7002431829E9A1C700F39EB5 /* ResourcesView.swift */,
+				7002431A29E9A1E200F39EB5 /* MatchingView.swift */,
 			);
 			path = Fireside_Chat_v0;
 			sourceTree = "<group>";
@@ -146,6 +158,10 @@
 				7002430E29E9975600F39EB5 /* Fireside_Chat_v0.xcdatamodeld in Sources */,
 				7002430B29E9975600F39EB5 /* Persistence.swift in Sources */,
 				7002430429E9975400F39EB5 /* ContentView.swift in Sources */,
+				7002431B29E9A1E200F39EB5 /* MatchingView.swift in Sources */,
+				7002431929E9A1C700F39EB5 /* ResourcesView.swift in Sources */,
+				7002431729E9A10B00F39EB5 /* RegistrationView.swift in Sources */,
+				7002431529E997DB00F39EB5 /* User.swift in Sources */,
 				7002430229E9975400F39EB5 /* Fireside_Chat_v0App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
